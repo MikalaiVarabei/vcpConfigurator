@@ -1,0 +1,2 @@
+# vcpConfigurator
+serial port VS
